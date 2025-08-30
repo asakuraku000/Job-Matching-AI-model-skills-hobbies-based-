@@ -77,7 +77,7 @@ class JobMatchingService {
 
 ## Supported Categories
 
-Software Developer, UI/UX Designer, Teacher, Healthcare Worker, Marketing Specialist, Chef, Veterinarian, Social Worker, Personal Trainer, Construction Manager, Writer, Childcare Provider, Event Coordinator, Landscaper, Travel Guide, Actor, Singer, Game Developer, Sports Coach, Volunteer Coordinator
+Software Developer, UI/UX Designer, Teacher, Healthcare Worker, Marketing Specialist, Chef, Veterinarian, Social Worker, Personal Trainer, Construction Manager, Writer, Childcare Provider, Event Coordinator, Landscaper, Travel Guide, Actor, Singer, Game Developer, Sports Coach, Volunteer Coordinator, you can add as many as you want!
 
 ## Files
 
