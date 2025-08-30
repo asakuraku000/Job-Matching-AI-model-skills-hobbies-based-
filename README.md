@@ -90,4 +90,4 @@ Software Developer, UI/UX Designer, Teacher, Healthcare Worker, Marketing Specia
 ## Contact
 
 **Email**: asakuraku000@gmail.com
-
+![Model Training Screenshot](https://github.com/asakuraku000/Job-Matching-AI-model-skills-hobbies-based-/blob/main/ss.png?raw=true)
